@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlideShow", "SlideShow\SlideShow.csproj", "{B8350D9A-7B83-47CF-9185-4AE09C547D10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5C03B157-D04D-48FB-8AC6-F8D363B20EFC}"
+	ProjectSection(SolutionItems) = preProject
+		Settings.StyleCop = Settings.StyleCop
+		Vertigo.SlideShow.snk = Vertigo.SlideShow.snk
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples", "Samples\Samples.csproj", "{07B0F812-5B2A-4BB4-A4AA-316994ECCEF9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs08.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SlideShow\\SlideShow.csproj
+		SccProjectName1 = SlideShow
+		SccLocalPath1 = SlideShow
+		SccProjectUniqueName2 = Samples\\Samples.csproj
+		SccProjectName2 = Samples
+		SccLocalPath2 = Samples
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8350D9A-7B83-47CF-9185-4AE09C547D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8350D9A-7B83-47CF-9185-4AE09C547D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8350D9A-7B83-47CF-9185-4AE09C547D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8350D9A-7B83-47CF-9185-4AE09C547D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B0F812-5B2A-4BB4-A4AA-316994ECCEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B0F812-5B2A-4BB4-A4AA-316994ECCEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B0F812-5B2A-4BB4-A4AA-316994ECCEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B0F812-5B2A-4BB4-A4AA-316994ECCEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

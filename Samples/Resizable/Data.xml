@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data startalbumindex="1" transition="CrossFadeTransition">
+	<album
+		title="Animals"
+		description="Photos of several animals (cross fade transition)"
+		source="../Assets/Vertigo/a_29.jpg"
+		transition="CrossFadeTransition">
+		<slide
+			title="Monterey Aquarium Exhibit — Jellies: Living Art"
+			description="Photo taken by Alan Le"
+			source="../Assets/Vertigo/s_07.jpg"
+			thumbnail="../Assets/Vertigo/t_07.jpg"
+			link="http://vertigo.com/"/>
+		<slide
+			title="My Cat"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_10.jpg"
+			thumbnail="../Assets/Vertigo/t_10.jpg" />
+		<slide
+			title="A Lizard (Really) from Sea Ranch, California"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_26.jpg"
+			thumbnail="../Assets/Vertigo/t_26.jpg" />
+		<slide
+			title="Two Frogs in Lily Pads in San Diego"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_27.jpg"
+			thumbnail="../Assets/Vertigo/t_27.jpg" />
+		<slide
+			title="Dragonfly"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_28.jpg"
+			thumbnail="../Assets/Vertigo/t_28.jpg" />
+		<slide
+			title="Giraffe"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_29.jpg"
+			thumbnail="../Assets/Vertigo/t_29.jpg" />
+		<slide
+			title="Yawning Porcupine"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_30.jpg"
+			thumbnail="../Assets/Vertigo/t_30.jpg" />
+		<slide
+			title="Rubber Duck Race"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_45.jpg"
+			thumbnail="../Assets/Vertigo/t_45.jpg" />
+	</album>
+	<album
+		title="Travel"
+		description="Photos from around the world (slide left transition)"
+		source="../Assets/Vertigo/a_50.jpg"
+		transition="CrossFadeTransition">
+		<slide
+			title="Florence"
+			description="Photo taken by Mike Hanley"
+			source="../Assets/Vertigo/s_04.jpg"
+			thumbnail="../Assets/Vertigo/t_04.jpg" />
+		<slide
+			title="Venus de Milo"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_20.jpg"
+			thumbnail="../Assets/Vertigo/t_20.jpg" />
+		<slide
+			title="Musée d'Orsay"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_21.jpg"
+			thumbnail="../Assets/Vertigo/t_21.jpg" />
+		<slide
+			title="Eiffel Tower from the Champ de Mars"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_22.jpg"
+			thumbnail="../Assets/Vertigo/t_22.jpg" />
+		<slide
+			title="Stonehenge"
+			description="In ancient times, hundreds of years before the dawn of history, an ancient race of people... the Druids. No one knows who they were or what they were doing..."
+			source="../Assets/Vertigo/s_24.jpg"
+			thumbnail="../Assets/Vertigo/t_24.jpg" />
+		<slide
+			title="Schooner off Cabo San Lucas"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_48.jpg"
+			thumbnail="../Assets/Vertigo/t_48.jpg" />
+		<slide
+			title="Maui, Hawaii"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_47.jpg"
+			thumbnail="../Assets/Vertigo/t_47.jpg" />
+		<slide
+			title="Dutch Village in Solvang (Highway 1, California)"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_50.jpg"
+			thumbnail="../Assets/Vertigo/t_50.jpg" />
+		<slide
+			title="Alien Highway in Nevada"
+			description="Photo taken by Blake Sorrell"
+			source="../Assets/Vertigo/s_54.jpg"
+			thumbnail="../Assets/Vertigo/t_54.jpg" />
+	</album>
+	<album
+		title="Landscape"
+		description="Landscape photos (slide down transition)"
+		source="../Assets/Vertigo/a_03.jpg"
+		transition="CrossFadeTransition">
+		<slide
+			title="Mountain Clouds"
+			description="Photo taken by Blake Sorrell"
+			source="../Assets/Vertigo/s_03.jpg"
+			thumbnail="../Assets/Vertigo/t_03.jpg" />
+		<slide
+			title="Ocean View in Cinque Terre"
+			description="Photo taken by Mike Hanley"
+			source="../Assets/Vertigo/s_05.jpg"
+			thumbnail="../Assets/Vertigo/t_05.jpg" />
+		<slide
+			title="Ocean Sunset in Cinque Terre"
+			description="Photo taken by Mike Hanley"
+			source="../Assets/Vertigo/s_06.jpg"
+			thumbnail="../Assets/Vertigo/t_06.jpg" />
+		<slide
+			title="Santa Monica Pier at Dusk"
+			description="Photo taken by Alan Le"
+			source="../Assets/Vertigo/s_16.jpg"
+			thumbnail="../Assets/Vertigo/t_16.jpg" />
+		<slide
+			title="Road to Point Reyes"
+			description="Photo taken by Alan Le"
+			source="../Assets/Vertigo/s_17.jpg"
+			thumbnail="../Assets/Vertigo/t_17.jpg" />
+		<slide
+			title="Marin County Hiking Trail"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_36.jpg"
+			thumbnail="../Assets/Vertigo/t_36.jpg" />
+		<slide
+			title="Desert in Maui, Hawaii"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_46.jpg"
+			thumbnail="../Assets/Vertigo/t_46.jpg" />
+	</album>
+	<album
+		title="San Francisco"
+		description="Photos of San Francisco, California (circle out transition)"
+		source="../Assets/Vertigo/a_14.jpg"
+		transition="CrossFadeTransition">
+		<slide
+			title="Golden Gate Bridge with Vista Glass Enabled"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_14.jpg"
+			thumbnail="../Assets/Vertigo/t_14.jpg" />
+		<slide
+			title="San Francisco Giants Game from McCovey Cove"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_38.jpg"
+			thumbnail="../Assets/Vertigo/t_38.jpg" />
+		<slide
+			title="Bay Bridge from Treasure Island"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_39.jpg"
+			thumbnail="../Assets/Vertigo/t_39.jpg" />
+		<slide
+			title="City at Night"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_40.jpg"
+			thumbnail="../Assets/Vertigo/t_40.jpg" />
+		<slide
+			title="Looking Down California Street"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_41.jpg"
+			thumbnail="../Assets/Vertigo/t_41.jpg" />
+		<slide
+			title="Steps"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_42.jpg"
+			thumbnail="../Assets/Vertigo/t_42.jpg" />
+		<slide
+			title="Scott Stanfield"
+			description="Regional Directors Grok Talk"
+			source="../Assets/Vertigo/s_56.wmv"
+			thumbnail="../Assets/Vertigo/t_56.jpg" />
+		<slide
+			title="Bush and Grant Street"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_43.jpg"
+			thumbnail="../Assets/Vertigo/t_43.jpg" />
+		<slide
+			title="California and Davis Street"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_44.jpg"
+			thumbnail="../Assets/Vertigo/t_44.jpg" />
+		<slide
+			title="Transamerica Building from Mandarin Oriental Hotel"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_53.jpg"
+			thumbnail="../Assets/Vertigo/t_53.jpg" />
+	</album>
+	<album
+		title="Plants"
+		description="Leafy plants (wipe right transition)"
+		source="../Assets/Vertigo/a_52.jpg"
+		transition="CircleOutTransition">
+		<slide
+			title="Sunflowers"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_09.jpg"
+			thumbnail="../Assets/Vertigo/t_09.jpg" />
+		<slide
+			title="Golden Poppies"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_25.jpg"
+			thumbnail="../Assets/Vertigo/t_25.jpg" />
+		<slide
+			title="Cacti Patch at Getty Museum"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_31.jpg"
+			thumbnail="../Assets/Vertigo/t_31.jpg" />
+		<slide
+			title="Oak Tree"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_34.jpg"
+			thumbnail="../Assets/Vertigo/t_34.jpg" />
+		<slide
+			title="Pine Cone and Needles"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_35.jpg"
+			thumbnail="../Assets/Vertigo/t_35.jpg" />
+		<slide
+			title="Sunflower Rays"
+			description="Photo taken by Blake Sorrell"
+			source="../Assets/Vertigo/s_55.jpg"
+			thumbnail="../Assets/Vertigo/t_55.jpg" />
+		<slide
+			title="Rose"
+			description="Photo taken by Blake Sorrell"
+			source="../Assets/Vertigo/s_01.jpg"
+			thumbnail="../Assets/Vertigo/t_01.jpg" />
+		<slide
+			title="Some Pinkish Flower Things"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_52.jpg"
+			thumbnail="../Assets/Vertigo/t_52.jpg" />
+	</album>
+	<album
+		title="Misc"
+		description="Miscellaneous photos (cross fade transition)"
+		source="../Assets/Vertigo/a_13.jpg"
+		transition="CrossFadeTransition">
+		<slide
+			title="Eiffel Tower, Pilier Nord"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_23.jpg"
+			thumbnail="../Assets/Vertigo/t_23.jpg" />
+		<slide
+			title="Paul's Homemade Wheat Beer"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_08.jpg"
+			thumbnail="../Assets/Vertigo/t_08.jpg" />
+		<slide
+			title="DNA Helix at Lawrence Hall of Science, Berkeley"
+			description="Photo taken by Alan Le"
+			source="../Assets/Vertigo/s_11.jpg"
+			thumbnail="../Assets/Vertigo/t_11.jpg" />
+		<slide
+			title="Cool Grass"
+			description="Photo taken by Alan Le"
+			source="../Assets/Vertigo/s_12.jpg"
+			thumbnail="../Assets/Vertigo/t_12.jpg" />
+		<slide
+			title="Gears of Campanile, Sather Tower, UC Berkeley"
+			description="Photo taken by Alan Le"
+			source="../Assets/Vertigo/s_13.jpg"
+			thumbnail="../Assets/Vertigo/t_13.jpg" />
+		<slide
+			title="Autumn Visits the Bay (Late)"
+			description="Photo taken by Alan Le"
+			source="../Assets/Vertigo/s_15.jpg"
+			thumbnail="../Assets/Vertigo/t_15.jpg" />
+		<slide
+			title="Santa Barbara Mission"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_32.jpg"
+			thumbnail="../Assets/Vertigo/t_32.jpg" />
+		<slide
+			title="Berkeley Kite Festival"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_33.jpg"
+			thumbnail="../Assets/Vertigo/t_33.jpg" />
+		<slide
+			title="Solvang, California Fountain"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_49.jpg"
+			thumbnail="../Assets/Vertigo/t_49.jpg" />
+		<slide
+			title="Stack of Chairs"
+			description="Photo taken by Alex Arkhipov"
+			source="../Assets/Vertigo/s_51.jpg"
+			thumbnail="../Assets/Vertigo/t_51.jpg" />
+		<slide
+			title="Old Tractor at Ardenwood Historic Farm"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_37.jpg"
+			thumbnail="../Assets/Vertigo/t_37.jpg" />
+		<slide
+			title="Chevy Classic in Vacaville"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_02.jpg"
+			thumbnail="../Assets/Vertigo/t_02.jpg" />
+		<slide
+			title="Game of Chess"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_18.jpg" />
+		<slide
+			title="1/1000"
+			description="Photo taken by Scott Stanfield"
+			source="../Assets/Vertigo/s_19.jpg" />
+	</album>
+</data>

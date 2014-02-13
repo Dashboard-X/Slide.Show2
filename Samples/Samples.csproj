@@ -1,0 +1,369 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{07B0F812-5B2A-4BB4-A4AA-316994ECCEF9}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vertigo.SlideShow.Samples</RootNamespace>
+    <AssemblyName>Vertigo.SlideShow.Samples</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <SilverlightApplicationList>{B8350D9A-7B83-47CF-9185-4AE09C547D10}|..\SlideShow\SlideShow.csproj|ClientBin|False</SilverlightApplicationList>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>..\Vertigo.SlideShow.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <CodeAnalysisRules>-Microsoft.Design#CA1012;-Microsoft.Design#CA2210;-Microsoft.Design#CA1040;-Microsoft.Design#CA1005;-Microsoft.Design#CA1020;-Microsoft.Design#CA1021;-Microsoft.Design#CA1010;-Microsoft.Design#CA1011;-Microsoft.Design#CA1009;-Microsoft.Design#CA1050;-Microsoft.Design#CA1026;-Microsoft.Design#CA1019;-Microsoft.Design#CA1031;-Microsoft.Design#CA1047;-Microsoft.Design#CA1000;-Microsoft.Design#CA1048;-Microsoft.Design#CA1051;-Microsoft.Design#CA1002;-Microsoft.Design#CA1061;-Microsoft.Design#CA1006;-Microsoft.Design#CA1046;-Microsoft.Design#CA1045;-Microsoft.Design#CA1065;-Microsoft.Design#CA1038;-Microsoft.Design#CA1008;-Microsoft.Design#CA1028;-Microsoft.Design#CA1064;-Microsoft.Design#CA1004;-Microsoft.Design#CA1035;-Microsoft.Design#CA1063;-Microsoft.Design#CA1032;-Microsoft.Design#CA1023;-Microsoft.Design#CA1033;-Microsoft.Design#CA1039;-Microsoft.Design#CA1016;-Microsoft.Design#CA1014;-Microsoft.Design#CA1017;-Microsoft.Design#CA1018;-Microsoft.Design#CA1027;-Microsoft.Design#CA1059;-Microsoft.Design#CA1060;-Microsoft.Design#CA1034;-Microsoft.Design#CA1013;-Microsoft.Design#CA1036;-Microsoft.Design#CA1044;-Microsoft.Design#CA1041;-Microsoft.Design#CA1025;-Microsoft.Design#CA1052;-Microsoft.Design#CA1053;-Microsoft.Design#CA1057;-Microsoft.Design#CA1058;-Microsoft.Design#CA1001;-Microsoft.Design#CA1049;-Microsoft.Design#CA1054;-Microsoft.Design#CA1056;-Microsoft.Design#CA1055;-Microsoft.Design#CA1030;-Microsoft.Design#CA1003;-Microsoft.Design#CA1007;-Microsoft.Design#CA1043;-Microsoft.Design#CA1024;-Microsoft.Globalization#CA1308;-Microsoft.Interoperability#CA1403;-Microsoft.Interoperability#CA1406;-Microsoft.Interoperability#CA1413;-Microsoft.Interoperability#CA1402;-Microsoft.Interoperability#CA1407;-Microsoft.Interoperability#CA1404;-Microsoft.Interoperability#CA1410;-Microsoft.Interoperability#CA1411;-Microsoft.Interoperability#CA1405;-Microsoft.Interoperability#CA1409;-Microsoft.Interoperability#CA1415;-Microsoft.Interoperability#CA1408;-Microsoft.Interoperability#CA1414;-Microsoft.Interoperability#CA1412;-Microsoft.Interoperability#CA1400;-Microsoft.Interoperability#CA1401;-Microsoft.Maintainability#CA1506;-Microsoft.Maintainability#CA1502;-Microsoft.Maintainability#CA1501;-Microsoft.Maintainability#CA1505;-Microsoft.Maintainability#CA1504;-Microsoft.Maintainability#CA1500;-Microsoft.Mobility#CA1600;-Microsoft.Mobility#CA1601;-Microsoft.Naming#CA1702;-Microsoft.Naming#CA1700;-Microsoft.Naming#CA1712;-Microsoft.Naming#CA1713;-Microsoft.Naming#CA1714;-Microsoft.Naming#CA1709;-Microsoft.Naming#CA1704;-Microsoft.Naming#CA1708;-Microsoft.Naming#CA1715;-Microsoft.Naming#CA1710;-Microsoft.Naming#CA1720;-Microsoft.Naming#CA1707;-Microsoft.Naming#CA1722;-Microsoft.Naming#CA1711;-Microsoft.Naming#CA1716;-Microsoft.Naming#CA1717;-Microsoft.Naming#CA1725;-Microsoft.Naming#CA1719;-Microsoft.Naming#CA1721;-Microsoft.Naming#CA1701;-Microsoft.Naming#CA1703;-Microsoft.Naming#CA1724;-Microsoft.Naming#CA1726;-Microsoft.Performance#CA1809;-Microsoft.Performance#CA1811;-Microsoft.Performance#CA1812;-Microsoft.Performance#CA1813;-Microsoft.Performance#CA1823;-Microsoft.Performance#CA1800;-Microsoft.Performance#CA1805;-Microsoft.Performance#CA1810;-Microsoft.Performance#CA1824;-Microsoft.Performance#CA1822;-Microsoft.Performance#CA1815;-Microsoft.Performance#CA1814;-Microsoft.Performance#CA1819;-Microsoft.Performance#CA1821;-Microsoft.Performance#CA1804;-Microsoft.Performance#CA1820;-Microsoft.Performance#CA1802;-Microsoft.Portability#CA1903;-Microsoft.Portability#CA1901;-Microsoft.Portability#CA1900;-Microsoft.Reliability#CA2001;-Microsoft.Reliability#CA2002;-Microsoft.Reliability#CA2003;-Microsoft.Reliability#CA2004;-Microsoft.Reliability#CA2006;-Microsoft.Security#CA2116;-Microsoft.Security#CA2117;-Microsoft.Security#CA2105;-Microsoft.Security#CA2115;-Microsoft.Security#CA2102;-Microsoft.Security#CA2104;-Microsoft.Security#CA2122;-Microsoft.Security#CA2114;-Microsoft.Security#CA2123;-Microsoft.Security#CA2111;-Microsoft.Security#CA2108;-Microsoft.Security#CA2107;-Microsoft.Security#CA2103;-Microsoft.Security#CA2118;-Microsoft.Security#CA2109;-Microsoft.Security#CA2119;-Microsoft.Security#CA2106;-Microsoft.Security#CA2112;-Microsoft.Security#CA2120;-Microsoft.Security#CA2121;-Microsoft.Security#CA2126;-Microsoft.Security#CA2124;-Microsoft.Security#CA2127;-Microsoft.Security#CA2128;-Microsoft.Security#CA2129;-Microsoft.Usage#CA2243;-Microsoft.Usage#CA2236;-Microsoft.Usage#CA1816;-Microsoft.Usage#CA2227;-Microsoft.Usage#CA2213;-Microsoft.Usage#CA2216;-Microsoft.Usage#CA2214;-Microsoft.Usage#CA2222;-Microsoft.Usage#CA1806;-Microsoft.Usage#CA2217;-Microsoft.Usage#CA2212;-Microsoft.Usage#CA2219;-Microsoft.Usage#CA2201;-Microsoft.Usage#CA2228;-Microsoft.Usage#CA2221;-Microsoft.Usage#CA2220;-Microsoft.Usage#CA2240;-Microsoft.Usage#CA2229;-Microsoft.Usage#CA2238;-Microsoft.Usage#CA2207;-Microsoft.Usage#CA2208;-Microsoft.Usage#CA2235;-Microsoft.Usage#CA2237;-Microsoft.Usage#CA2232;-Microsoft.Usage#CA2223;-Microsoft.Usage#CA2211;-Microsoft.Usage#CA2233;-Microsoft.Usage#CA2225;-Microsoft.Usage#CA2226;-Microsoft.Usage#CA2231;-Microsoft.Usage#CA2224;-Microsoft.Usage#CA2218;-Microsoft.Usage#CA2234;-Microsoft.Usage#CA2239;-Microsoft.Usage#CA2200;-Microsoft.Usage#CA1801;-Microsoft.Usage#CA2242;-Microsoft.Usage#CA2205;-Microsoft.Usage#CA2230</CodeAnalysisRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Silverlight, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XMLConfiguration\DownloadImage.ashx.cs">
+      <DependentUpon>DownloadImage.ashx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\Memorabilia\s_001155.jpg" />
+    <Content Include="Assets\Memorabilia\s_001678.jpg" />
+    <Content Include="Assets\Memorabilia\s_005021.jpg" />
+    <Content Include="Assets\Memorabilia\s_006434.jpg" />
+    <Content Include="Assets\Memorabilia\s_016508.jpg" />
+    <Content Include="Assets\Memorabilia\s_021114.jpg" />
+    <Content Include="Assets\Memorabilia\s_023350.jpg" />
+    <Content Include="Assets\Memorabilia\s_023792.jpg" />
+    <Content Include="Assets\Memorabilia\s_024709.jpg" />
+    <Content Include="Assets\Memorabilia\s_025746.jpg" />
+    <Content Include="Assets\Memorabilia\s_026341.jpg" />
+    <Content Include="Assets\Memorabilia\s_033241.jpg" />
+    <Content Include="Assets\Memorabilia\s_034439.jpg" />
+    <Content Include="Assets\Memorabilia\s_036446.jpg" />
+    <Content Include="Assets\Memorabilia\s_038404.jpg" />
+    <Content Include="Assets\Memorabilia\s_040510.jpg" />
+    <Content Include="Assets\Memorabilia\s_041555.jpg" />
+    <Content Include="Assets\Memorabilia\s_043311.jpg" />
+    <Content Include="Assets\Memorabilia\s_043665.jpg" />
+    <Content Include="Assets\Memorabilia\s_044105.jpg" />
+    <Content Include="Assets\Memorabilia\s_044456.jpg" />
+    <Content Include="Assets\Memorabilia\s_045844.jpg" />
+    <Content Include="Assets\Memorabilia\s_046796.jpg" />
+    <Content Include="Assets\Memorabilia\s_047568.jpg" />
+    <Content Include="Assets\Memorabilia\s_047721.jpg" />
+    <Content Include="Assets\Memorabilia\s_047898.jpg" />
+    <Content Include="Assets\Memorabilia\s_048391.jpg" />
+    <Content Include="Assets\Memorabilia\s_050938.jpg" />
+    <Content Include="Assets\Memorabilia\s_051228.jpg" />
+    <Content Include="Assets\Memorabilia\s_051892.jpg" />
+    <Content Include="Assets\Memorabilia\s_052067.jpg" />
+    <Content Include="Assets\Memorabilia\s_053701.jpg" />
+    <Content Include="Assets\Memorabilia\s_054726.jpg" />
+    <Content Include="Assets\Memorabilia\s_057815.jpg" />
+    <Content Include="Assets\Memorabilia\s_059711.jpg" />
+    <Content Include="Assets\Memorabilia\s_061425.jpg" />
+    <Content Include="Assets\Memorabilia\s_062560.jpg" />
+    <Content Include="Assets\Memorabilia\s_062575.jpg" />
+    <Content Include="Assets\Memorabilia\s_064673.jpg" />
+    <Content Include="Assets\Memorabilia\s_064691.jpg" />
+    <Content Include="Assets\Memorabilia\s_065041.jpg" />
+    <Content Include="Assets\Memorabilia\s_067011.jpg" />
+    <Content Include="Assets\Memorabilia\s_069800.jpg" />
+    <Content Include="Assets\Memorabilia\s_069804.jpg" />
+    <Content Include="Assets\Memorabilia\s_087424.jpg" />
+    <Content Include="Assets\Memorabilia\s_087933.jpg" />
+    <Content Include="Assets\Memorabilia\s_088125.jpg" />
+    <Content Include="Assets\Memorabilia\s_088653.jpg" />
+    <Content Include="Assets\Memorabilia\s_091403.jpg" />
+    <Content Include="Assets\Memorabilia\s_093845.jpg" />
+    <Content Include="Assets\Memorabilia\s_095989.jpg" />
+    <Content Include="Assets\Memorabilia\s_097971.jpg" />
+    <Content Include="Assets\Memorabilia\s_100299.jpg" />
+    <Content Include="Assets\Memorabilia\t_001155.jpg" />
+    <Content Include="Assets\Memorabilia\t_001678.jpg" />
+    <Content Include="Assets\Memorabilia\t_005021.jpg" />
+    <Content Include="Assets\Memorabilia\t_006434.jpg" />
+    <Content Include="Assets\Memorabilia\t_016508.jpg" />
+    <Content Include="Assets\Memorabilia\t_021114.jpg" />
+    <Content Include="Assets\Memorabilia\t_023350.jpg" />
+    <Content Include="Assets\Memorabilia\t_023792.jpg" />
+    <Content Include="Assets\Memorabilia\t_024709.jpg" />
+    <Content Include="Assets\Memorabilia\t_025746.jpg" />
+    <Content Include="Assets\Memorabilia\t_026341.jpg" />
+    <Content Include="Assets\Memorabilia\t_033241.jpg" />
+    <Content Include="Assets\Memorabilia\t_034439.jpg" />
+    <Content Include="Assets\Memorabilia\t_036446.jpg" />
+    <Content Include="Assets\Memorabilia\t_038404.jpg" />
+    <Content Include="Assets\Memorabilia\t_040510.jpg" />
+    <Content Include="Assets\Memorabilia\t_041555.jpg" />
+    <Content Include="Assets\Memorabilia\t_043311.jpg" />
+    <Content Include="Assets\Memorabilia\t_043665.jpg" />
+    <Content Include="Assets\Memorabilia\t_044105.jpg" />
+    <Content Include="Assets\Memorabilia\t_044456.jpg" />
+    <Content Include="Assets\Memorabilia\t_045844.jpg" />
+    <Content Include="Assets\Memorabilia\t_046796.jpg" />
+    <Content Include="Assets\Memorabilia\t_047568.jpg" />
+    <Content Include="Assets\Memorabilia\t_047721.jpg" />
+    <Content Include="Assets\Memorabilia\t_047898.jpg" />
+    <Content Include="Assets\Memorabilia\t_048391.jpg" />
+    <Content Include="Assets\Memorabilia\t_050938.jpg" />
+    <Content Include="Assets\Memorabilia\t_051228.jpg" />
+    <Content Include="Assets\Memorabilia\t_051892.jpg" />
+    <Content Include="Assets\Memorabilia\t_052067.jpg" />
+    <Content Include="Assets\Memorabilia\t_053701.jpg" />
+    <Content Include="Assets\Memorabilia\t_054726.jpg" />
+    <Content Include="Assets\Memorabilia\t_057815.jpg" />
+    <Content Include="Assets\Memorabilia\t_059711.jpg" />
+    <Content Include="Assets\Memorabilia\t_061425.jpg" />
+    <Content Include="Assets\Memorabilia\t_062560.jpg" />
+    <Content Include="Assets\Memorabilia\t_062575.jpg" />
+    <Content Include="Assets\Memorabilia\t_064673.jpg" />
+    <Content Include="Assets\Memorabilia\t_064691.jpg" />
+    <Content Include="Assets\Memorabilia\t_065041.jpg" />
+    <Content Include="Assets\Memorabilia\t_067011.jpg" />
+    <Content Include="Assets\Memorabilia\t_069800.jpg" />
+    <Content Include="Assets\Memorabilia\t_069804.jpg" />
+    <Content Include="Assets\Memorabilia\t_087424.jpg" />
+    <Content Include="Assets\Memorabilia\t_087933.jpg" />
+    <Content Include="Assets\Memorabilia\t_088125.jpg" />
+    <Content Include="Assets\Memorabilia\t_088653.jpg" />
+    <Content Include="Assets\Memorabilia\t_091403.jpg" />
+    <Content Include="Assets\Memorabilia\t_093845.jpg" />
+    <Content Include="Assets\Memorabilia\t_095989.jpg" />
+    <Content Include="Assets\Memorabilia\t_097971.jpg" />
+    <Content Include="Assets\Memorabilia\t_100299.jpg" />
+    <Content Include="Assets\Vertigo\a_03.jpg" />
+    <Content Include="Assets\Vertigo\a_13.jpg" />
+    <Content Include="Assets\Vertigo\a_14.jpg" />
+    <Content Include="Assets\Vertigo\a_29.jpg" />
+    <Content Include="Assets\Vertigo\a_50.jpg" />
+    <Content Include="Assets\Vertigo\a_52.jpg" />
+    <Content Include="Assets\Vertigo\a_57.jpg" />
+    <Content Include="Assets\Vertigo\s_01.jpg" />
+    <Content Include="Assets\Vertigo\s_02.jpg" />
+    <Content Include="Assets\Vertigo\s_03.jpg" />
+    <Content Include="Assets\Vertigo\s_04.jpg" />
+    <Content Include="Assets\Vertigo\s_05.jpg" />
+    <Content Include="Assets\Vertigo\s_06.jpg" />
+    <Content Include="Assets\Vertigo\s_07.jpg" />
+    <Content Include="Assets\Vertigo\s_08.jpg" />
+    <Content Include="Assets\Vertigo\s_09.jpg" />
+    <Content Include="Assets\Vertigo\s_10.jpg" />
+    <Content Include="Assets\Vertigo\s_11.jpg" />
+    <Content Include="Assets\Vertigo\s_12.jpg" />
+    <Content Include="Assets\Vertigo\s_13.jpg" />
+    <Content Include="Assets\Vertigo\s_14.jpg" />
+    <Content Include="Assets\Vertigo\s_15.jpg" />
+    <Content Include="Assets\Vertigo\s_16.jpg" />
+    <Content Include="Assets\Vertigo\s_17.jpg" />
+    <Content Include="Assets\Vertigo\s_18.jpg" />
+    <Content Include="Assets\Vertigo\s_19.jpg" />
+    <Content Include="Assets\Vertigo\s_20.jpg" />
+    <Content Include="Assets\Vertigo\s_21.jpg" />
+    <Content Include="Assets\Vertigo\s_22.jpg" />
+    <Content Include="Assets\Vertigo\s_23.jpg" />
+    <Content Include="Assets\Vertigo\s_24.jpg" />
+    <Content Include="Assets\Vertigo\s_25.jpg" />
+    <Content Include="Assets\Vertigo\s_26.jpg" />
+    <Content Include="Assets\Vertigo\s_27.jpg" />
+    <Content Include="Assets\Vertigo\s_28.jpg" />
+    <Content Include="Assets\Vertigo\s_29.jpg" />
+    <Content Include="Assets\Vertigo\s_30.jpg" />
+    <Content Include="Assets\Vertigo\s_31.jpg" />
+    <Content Include="Assets\Vertigo\s_32.jpg" />
+    <Content Include="Assets\Vertigo\s_33.jpg" />
+    <Content Include="Assets\Vertigo\s_34.jpg" />
+    <Content Include="Assets\Vertigo\s_35.jpg" />
+    <Content Include="Assets\Vertigo\s_36.jpg" />
+    <Content Include="Assets\Vertigo\s_37.jpg" />
+    <Content Include="Assets\Vertigo\s_38.jpg" />
+    <Content Include="Assets\Vertigo\s_39.jpg" />
+    <Content Include="Assets\Vertigo\s_40.jpg" />
+    <Content Include="Assets\Vertigo\s_41.jpg" />
+    <Content Include="Assets\Vertigo\s_42.jpg" />
+    <Content Include="Assets\Vertigo\s_43.jpg" />
+    <Content Include="Assets\Vertigo\s_44.jpg" />
+    <Content Include="Assets\Vertigo\s_45.jpg" />
+    <Content Include="Assets\Vertigo\s_46.jpg" />
+    <Content Include="Assets\Vertigo\s_47.jpg" />
+    <Content Include="Assets\Vertigo\s_48.jpg" />
+    <Content Include="Assets\Vertigo\s_49.jpg" />
+    <Content Include="Assets\Vertigo\s_50.jpg" />
+    <Content Include="Assets\Vertigo\s_51.jpg" />
+    <Content Include="Assets\Vertigo\s_52.jpg" />
+    <Content Include="Assets\Vertigo\s_53.jpg" />
+    <Content Include="Assets\Vertigo\s_54.jpg" />
+    <Content Include="Assets\Vertigo\s_55.jpg" />
+    <Content Include="Assets\Vertigo\t_01.jpg" />
+    <Content Include="Assets\Vertigo\t_02.jpg" />
+    <Content Include="Assets\Vertigo\t_03.jpg" />
+    <Content Include="Assets\Vertigo\t_04.jpg" />
+    <Content Include="Assets\Vertigo\t_05.jpg" />
+    <Content Include="Assets\Vertigo\t_06.jpg" />
+    <Content Include="Assets\Vertigo\t_07.jpg" />
+    <Content Include="Assets\Vertigo\t_08.jpg" />
+    <Content Include="Assets\Vertigo\t_09.jpg" />
+    <Content Include="Assets\Vertigo\t_10.jpg" />
+    <Content Include="Assets\Vertigo\t_11.jpg" />
+    <Content Include="Assets\Vertigo\t_12.jpg" />
+    <Content Include="Assets\Vertigo\t_13.jpg" />
+    <Content Include="Assets\Vertigo\t_14.jpg" />
+    <Content Include="Assets\Vertigo\t_15.jpg" />
+    <Content Include="Assets\Vertigo\t_16.jpg" />
+    <Content Include="Assets\Vertigo\t_17.jpg" />
+    <Content Include="Assets\Vertigo\t_18.jpg" />
+    <Content Include="Assets\Vertigo\t_19.jpg" />
+    <Content Include="Assets\Vertigo\t_20.jpg" />
+    <Content Include="Assets\Vertigo\t_21.jpg" />
+    <Content Include="Assets\Vertigo\t_22.jpg" />
+    <Content Include="Assets\Vertigo\t_23.jpg" />
+    <Content Include="Assets\Vertigo\t_24.jpg" />
+    <Content Include="Assets\Vertigo\t_25.jpg" />
+    <Content Include="Assets\Vertigo\t_26.jpg" />
+    <Content Include="Assets\Vertigo\t_27.jpg" />
+    <Content Include="Assets\Vertigo\t_28.jpg" />
+    <Content Include="Assets\Vertigo\t_29.jpg" />
+    <Content Include="Assets\Vertigo\t_30.jpg" />
+    <Content Include="Assets\Vertigo\t_31.jpg" />
+    <Content Include="Assets\Vertigo\t_32.jpg" />
+    <Content Include="Assets\Vertigo\t_33.jpg" />
+    <Content Include="Assets\Vertigo\t_34.jpg" />
+    <Content Include="Assets\Vertigo\t_35.jpg" />
+    <Content Include="Assets\Vertigo\t_36.jpg" />
+    <Content Include="Assets\Vertigo\t_37.jpg" />
+    <Content Include="Assets\Vertigo\t_38.jpg" />
+    <Content Include="Assets\Vertigo\t_39.jpg" />
+    <Content Include="Assets\Vertigo\t_40.jpg" />
+    <Content Include="Assets\Vertigo\t_41.jpg" />
+    <Content Include="Assets\Vertigo\t_42.jpg" />
+    <Content Include="Assets\Vertigo\t_43.jpg" />
+    <Content Include="Assets\Vertigo\t_44.jpg" />
+    <Content Include="Assets\Vertigo\t_45.jpg" />
+    <Content Include="Assets\Vertigo\t_46.jpg" />
+    <Content Include="Assets\Vertigo\t_47.jpg" />
+    <Content Include="Assets\Vertigo\t_48.jpg" />
+    <Content Include="Assets\Vertigo\t_49.jpg" />
+    <Content Include="Assets\Vertigo\t_50.jpg" />
+    <Content Include="Assets\Vertigo\t_51.jpg" />
+    <Content Include="Assets\Vertigo\t_52.jpg" />
+    <Content Include="Assets\Vertigo\t_53.jpg" />
+    <Content Include="Assets\Vertigo\t_54.jpg" />
+    <Content Include="Assets\Vertigo\t_55.jpg" />
+    <Content Include="ClientBin\Vertigo.SlideShow.xap" />
+    <Content Include="Default.html" />
+    <Content Include="Memorabilia\Data.xml" />
+    <Content Include="Memorabilia\Default.html" />
+    <Content Include="Flickr\Default.html">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Resizable\Data.xml" />
+    <Content Include="Resizable\Default.html">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Simple\Data.xml" />
+    <Content Include="Simple\Default.html">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Video\Configuration.xml" />
+    <Content Include="Video\Data.xml" />
+    <Content Include="Video\Default.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Documentation\How to add configuration support to a control.doc" />
+    <None Include="Documentation\How to add configuration support to a control.pdf" />
+    <None Include="Documentation\How to write a SlideViewer control.doc" />
+    <None Include="Documentation\How to write a SlideViewer control.pdf" />
+    <None Include="Documentation\How to write a templated control.doc" />
+    <None Include="Documentation\How to write a templated control.pdf" />
+    <None Include="Documentation\How to write a theme.doc" />
+    <None Include="Documentation\How to write a theme.pdf" />
+    <None Include="Documentation\Slide.Show 2 Configuration Guide.doc" />
+    <None Include="Documentation\Slide.Show 2 Configuration Guide.pdf" />
+    <None Include="Documentation\Slide.Show 2 Quick Start Guide.doc" />
+    <None Include="Documentation\Slide.Show 2 Quick Start Guide.pdf" />
+    <Content Include="XMLConfiguration\DownloadImage.ashx" />
+    <Content Include="Assets\SlideShow2.png" />
+    <Content Include="Assets\Vertigo\t_1.jpg" />
+    <Content Include="Assets\Vertigo\t_2.jpg" />
+    <Content Include="Assets\Vertigo\t_3.jpg" />
+    <Content Include="Assets\Vertigo\t_4.jpg" />
+    <Content Include="Assets\Vertigo\t_5.jpg" />
+    <Content Include="Assets\Vertigo\t_6.jpg" />
+    <Content Include="Assets\Vertigo\t_7.jpg" />
+    <Content Include="Assets\Vertigo\t_8.jpg" />
+    <Content Include="Assets\Vertigo\v_1.wmv" />
+    <Content Include="Assets\Vertigo\v_2.wmv" />
+    <Content Include="Assets\Vertigo\v_3.wmv" />
+    <Content Include="Assets\Vertigo\v_4.wmv" />
+    <Content Include="Assets\Vertigo\v_5.wmv" />
+    <Content Include="Assets\Vertigo\v_6.wmv" />
+    <Content Include="Assets\Vertigo\v_7.wmv" />
+    <Content Include="Assets\Vertigo\v_8.wmv" />
+    <Content Include="Default.css" />
+    <Content Include="Web.config" />
+    <Content Include="XMLConfiguration\Configuration.xml" />
+    <Content Include="XMLConfiguration\Data.xml" />
+    <Content Include="XMLConfiguration\Default.html" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <SaveServerSettingsInUserFile>True</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

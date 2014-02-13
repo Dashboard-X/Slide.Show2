@@ -1,0 +1,39 @@
+﻿html,body
+{
+	height:100%;
+}
+body.home
+{
+	height:auto;
+	margin:10px;
+	background:#fff;
+	font:11pt Arial,sans-serif;
+}
+body.light,body.simple
+{
+	margin:auto;
+	text-align:center;
+	background:#ccc;
+}
+body.dark
+{
+	margin:auto;
+	text-align:center;
+	background:#141414;
+}
+#logo
+{
+	border:0;
+}
+h3
+{
+	margin-top:30px;
+}
+li.sample
+{
+	margin-top:15px;
+}
+a.sample
+{
+	font-weight:bold;
+}

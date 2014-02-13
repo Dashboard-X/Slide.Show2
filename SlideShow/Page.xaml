@@ -1,0 +1,8 @@
+﻿<UserControl xmlns="http://schemas.microsoft.com/client/2007" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:Vertigo.SlideShow.Controls;assembly=Vertigo.SlideShow" x:Class="Vertigo.SlideShow.Page">
+	<Canvas x:Name="SlideShowRoot">
+		<Canvas Name="mediaRoot" />
+		<v:SlideDescription x:Name="slideDescription" Opacity="0" />
+		<v:NavigationTray x:Name="navigationTray" MouseEnter="navigationTray_MouseEnter" MouseLeave="navigationTray_MouseLeave" Opacity="0" />
+		<v:EmbedViewer x:Name="EmbedViewerElement" />
+	</Canvas>
+</UserControl>

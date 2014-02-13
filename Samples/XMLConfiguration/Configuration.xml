@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration background="Black" AutoStart="false" StartInAlbumView="true">
+	<module name="EmbedViewer">
+		<option name="Enabled" value="false" />
+	</module>
+	<module name="ToggleEmbedViewButton">
+		<option name="Enabled" value="false" />
+	</module>
+    <module name="ToggleSaveButton">
+        <option name="Enabled" value="true" />
+        <option name="DownloadImageHandler" value="http://localhost/Samples/XMLConfiguration/DownloadImage.ashx?image=" />
+    </module>	
+    <module name="SlideDescription">
+        <option name="DescriptionHeight" value="60" />
+    </module>
+</configuration>

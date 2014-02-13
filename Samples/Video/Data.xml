@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data startalbumindex="0" transition="CrossFadeTransition">
+	<album
+		title="Sample Videos"
+		description="A sample selection of HD videos"
+		source="../Assets/Vertigo/t_8.jpg"
+		transition="CircleOutTransition">
+		<slide
+			source="../Assets/Vertigo/v_1.wmv"
+			thumbnail="../Assets/Vertigo/t_1.jpg" />
+		<slide
+			source="../Assets/Vertigo/v_2.wmv"
+			thumbnail="../Assets/Vertigo/t_2.jpg" />
+		<slide
+			source="../Assets/Vertigo/v_3.wmv"
+			thumbnail="../Assets/Vertigo/t_3.jpg" />
+		<slide
+			source="../Assets/Vertigo/v_4.wmv"
+			thumbnail="../Assets/Vertigo/t_4.jpg" />
+		<slide
+			source="../Assets/Vertigo/v_5.wmv"
+			thumbnail="../Assets/Vertigo/t_5.jpg" />
+		<slide
+			source="../Assets/Vertigo/v_6.wmv"
+			thumbnail="../Assets/Vertigo/t_6.jpg" />
+		<slide
+			source="../Assets/Vertigo/v_7.wmv"
+			thumbnail="../Assets/Vertigo/t_7.jpg" />
+		<slide
+			source="../Assets/Vertigo/v_8.wmv"
+			thumbnail="../Assets/Vertigo/t_8.jpg" />
+	</album>
+</data>

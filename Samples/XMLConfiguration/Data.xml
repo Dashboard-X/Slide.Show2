@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data startalbumindex="0" transition="CrossFadeTransition">
+	<album
+		title="Liam Molloy"
+		description="A collection of Liam's favorite Hard Rock memorabilia items"
+		source="../Assets/Memorabilia/t_100299.jpg"
+		transition="CircleInTransition">
+        <slide
+			title="Kids wave to the SeaWorld shark tank diver"
+			description="SeaWorld San Antonio"
+			source="../Assets/Memorabilia/Kids wave to the SeaWorld shark tank diver.jpg"
+			thumbnail="../Assets/Memorabilia/Kids wave to the SeaWorld shark tank diver.jpg"/>
+		<slide
+			title="dummy"
+			description="This image doesn't exist, resulting in the blank image being shown.  This image also has a really long description, just to show that you can expand the description height in the XML configuration now to support really long descriptions."
+			source="../Assets/Memorabilia/invalid.jpg"
+			thumbnail="../Assets/Memorabilia/invalid.jpg"/>
+        <slide
+			title="Chad Smith - Red Hot Chilli Peppers - Custom Pearl drum kit"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_100299.jpg"
+			thumbnail="../Assets/Memorabilia/t_100299.jpg"
+			link="http://memorabilia.hardrock.com/?item=100299"/>
+		<slide
+			title="Sid Vicious - The Sex Pistols - Jacket and letter from mom"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_006434.jpg"
+			thumbnail="../Assets/Memorabilia/t_006434.jpg"
+			link="http://memorabilia.hardrock.com/?item=006434"/>
+		<slide
+			title="Paul Simonon - The Clash - Stage-worn “prostitute” t-shirt, white pants"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_045844.jpg"
+			thumbnail="../Assets/Memorabilia/t_045844.jpg"
+			link="http://memorabilia.hardrock.com/?item=045844"/>
+		<slide
+			title="Iron Maiden - Performance contract"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_016508.jpg"
+			thumbnail="../Assets/Memorabilia/t_016508.jpg"
+			link="http://memorabilia.hardrock.com/?item=016508"/>
+		<slide
+			title="The Who - Concert program"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_040510.jpg"
+			thumbnail="../Assets/Memorabilia/t_040510.jpg"
+			link="http://memorabilia.hardrock.com/?item=040510"/>
+		<slide
+			title="Alan Aldridge - Elton John - “Captain fantastic” pinball machine artwork"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_045844.jpg"
+			thumbnail="../Assets/Memorabilia/t_045844.jpg"
+			link="http://memorabilia.hardrock.com/?item=046796"/>
+		<slide
+			title="U2 - Painted Trabant automobile"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_054726.jpg"
+			thumbnail="../Assets/Memorabilia/t_054726.jpg"
+			link="http://memorabilia.hardrock.com/?item=054726"/>
+		<slide
+			title="Eric Clapton - Red Fender Lead II guitar - the original memorabilia item"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_047898.jpg"
+			thumbnail="../Assets/Memorabilia/t_047898.jpg"
+			link="http://memorabilia.hardrock.com/?item=047898"/>
+		<slide
+			title="John Lennon - US Army shirt"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_051892.jpg"
+			thumbnail="../Assets/Memorabilia/t_051892.jpg"
+			link="http://memorabilia.hardrock.com/?item=051892"/>
+		<slide
+			title="Bo Diddley - Tom Holmes custom guitar"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_093845.jpg"
+			thumbnail="../Assets/Memorabilia/t_093845.jpg"
+			link="http://memorabilia.hardrock.com/?item=093845"/>
+	</album>
+	<album
+		title="Scott Stanfield"
+		description="A collection of Liam's favorite Hard Rock memorabilia items"
+		source="../Assets/Memorabilia/t_093845.jpg"
+		transition="SlideLeftTransition">
+		<slide
+			title="Bo Diddley - Tom Holmes custom guitar"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_093845.jpg"
+			thumbnail="../Assets/Memorabilia/t_093845.jpg"
+			link="http://memorabilia.hardrock.com/?item=093845"/>
+		<slide
+			title="John Lennon - US Army shirt"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_051892.jpg"
+			thumbnail="../Assets/Memorabilia/t_051892.jpg"
+			link="http://memorabilia.hardrock.com/?item=051892"/>
+		<slide
+			title="The Beatles - “Butcher Cover” Yesterday and Today LP, box"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_052067.jpg"
+			thumbnail="../Assets/Memorabilia/t_052067.jpg"
+			link="http://memorabilia.hardrock.com/?item=052067"/>
+		<slide
+			title="Paul McCartney - The Beatles - Letter from Paul and Beatles autographs"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_043311.jpg"
+			thumbnail="../Assets/Memorabilia/t_043311.jpg"
+			link="http://memorabilia.hardrock.com/?item=043311"/>
+		<slide
+			title="Elvis Presley - Military identification affidavit"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_064673.jpg"
+			thumbnail="../Assets/Memorabilia/t_064673.jpg"
+			link="http://memorabilia.hardrock.com/?item=064673"/>
+		<slide
+			title="Madonna - Tasseled bustier"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_021114.jpg"
+			thumbnail="../Assets/Memorabilia/t_021114.jpg"
+			link="http://memorabilia.hardrock.com/?item=021114"/>
+		<slide
+			title="George Michael - BSA leather motorcycle jacket"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_047568.jpg"
+			thumbnail="../Assets/Memorabilia/t_047568.jpg"
+			link="http://memorabilia.hardrock.com/?item=047568"/>
+		<slide
+			title="Zakk Wylde - Ozzy Osbourne - Bullseye-motif Les Paul Custom"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_044456.jpg"
+			thumbnail="../Assets/Memorabilia/t_044456.jpg"
+			link="http://memorabilia.hardrock.com/?item=044456"/>
+	</album>
+	<album
+	title="Scott Milliken"
+	description="A collection of Scott's favorite Hard Rock memorabilia items"
+	source="../Assets/Memorabilia/t_045844.jpg"
+	transition="SlideUpTransition">
+		<slide
+			title="Jimi Hendrix - Rocking horse"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_045844.jpg"
+			thumbnail="../Assets/Memorabilia/t_045844.jpg"
+			link="http://memorabilia.hardrock.com/?item=045844"/>
+		<slide
+			title="John Entwistle - The Who"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_005021.jpg"
+			thumbnail="../Assets/Memorabilia/t_005021.jpg"
+			link="http://memorabilia.hardrock.com/?item=005021"/>
+		<slide
+			title="Elvis Presley - Fancy derringer and monogrammed case"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_057815.jpg"
+			thumbnail="../Assets/Memorabilia/t_057815.jpg"
+			link="http://memorabilia.hardrock.com/?item=057815"/>
+		<slide
+			title="Jimi Hendrix - Airline ticket"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_048391.jpg"
+			thumbnail="../Assets/Memorabilia/t_048391.jpg"
+			link="http://memorabilia.hardrock.com/?item=048391"/>
+		<slide
+			title="Matt Sorum - Guns N’ Roses - ’90s Yamaha drum set"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_001678.jpg"
+			thumbnail="../Assets/Memorabilia/t_001678.jpg"
+			link="http://memorabilia.hardrock.com/?item=001678"/>
+	</album>
+	<album
+	title="Will Allan"
+	description="A collection of Will's favorite Hard Rock memorabilia items"
+	source="../Assets/Memorabilia/t_025746.jpg"
+	transition="TranslateRightTransition">
+		<slide
+			title="Alan Aldridge - Early proposal for the Hard Rock cafe logo"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_025746.jpg"
+			thumbnail="../Assets/Memorabilia/t_025746.jpg"
+			link="http://memorabilia.hardrock.com/?item=025746"/>
+		<slide
+			title="John Lennon - Glasses"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_067011.jpg"
+			thumbnail="../Assets/Memorabilia/t_067011.jpg"
+			link="http://memorabilia.hardrock.com/?item=067011"/>
+		<slide
+			title="Elton John - Red platform shoes"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_097971.jpg"
+			thumbnail="../Assets/Memorabilia/t_097971.jpg"
+			link="http://memorabilia.hardrock.com/?item=097971"/>
+		<slide
+			title="John 5 - Rob Zombie - Upright bass"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_050938.jpg"
+			thumbnail="../Assets/Memorabilia/t_050938.jpg"
+			link="http://memorabilia.hardrock.com/?item=050938"/>
+		<slide
+			title="Jimi Hendrix - Rocking horse"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_045844.jpg"
+			thumbnail="../Assets/Memorabilia/t_045844.jpg"
+			link="http://memorabilia.hardrock.com/?item=045844"/>
+		<slide
+			title="Roy Orbision - Glasses"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_033241.jpg"
+			thumbnail="../Assets/Memorabilia/t_033241.jpg"
+			link="http://memorabilia.hardrock.com/?item=033241"/>
+		<slide
+			title="Dave “The Snake” Sabo - Skid Row - Converse sneakers"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_087933.jpg"
+			thumbnail="../Assets/Memorabilia/t_087933.jpg"
+			link="http://memorabilia.hardrock.com/?item=087933"/>
+		<slide
+			title="John Lennon - The Beatles - Tinted round wireframe glasses"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_088125.jpg"
+			thumbnail="../Assets/Memorabilia/t_088125.jpg"
+			link="http://memorabilia.hardrock.com/?item=088125"/>
+		<slide
+			title="The Beatles - Apple Corps front door"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_053701.jpg"
+			thumbnail="../Assets/Memorabilia/t_053701.jpg"
+			link="http://memorabilia.hardrock.com/?item=053701"/>
+		<slide
+		title="The Beatles - Original animation cel from Yellow submarine"
+		description="Image provided by Hard Rock. Click on image for more details"
+		source="../Assets/Memorabilia/s_034439.jpg"
+		thumbnail="../Assets/Memorabilia/t_034439.jpg"
+		link="http://memorabilia.hardrock.com/?item=034439"/>
+		<slide
+			title="John Lennon - US Army shirt"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_051892.jpg"
+			thumbnail="../Assets/Memorabilia/t_051892.jpg"
+			link="http://memorabilia.hardrock.com/?item=051892"/>
+		<slide
+			title="Keith Moon - The Who - Velour jacket, leather boots, drumsticks"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_095989.jpg"
+			thumbnail="../Assets/Memorabilia/t_095989.jpg"
+			link="http://memorabilia.hardrock.com/?item=095989"/>
+		<slide
+			title="David Crosby - Crosby, Stills, Nash and Young - 1974 Martin D-28"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_061425.jpg"
+			thumbnail="../Assets/Memorabilia/t_061425.jpg"
+			link="http://memorabilia.hardrock.com/?item=061425"/>
+		<slide
+			title="Matt Sorum - Guns N’ Roses - ’90s Yamaha drum set"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_001678.jpg"
+			thumbnail="../Assets/Memorabilia/t_001678.jpg"
+			link="http://memorabilia.hardrock.com/?item=001678"/>
+		<slide
+			title="Gibby Haynes - Butthole Surfers - Watercolor painting"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_044105.jpg"
+			thumbnail="../Assets/Memorabilia/t_044105.jpg"
+			link="http://memorabilia.hardrock.com/?item=044105"/>
+		<slide
+			title="Chad Smith - Red Hot Chilli Peppers - Bass drum and painted head"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_062560.jpg"
+			thumbnail="../Assets/Memorabilia/t_062560.jpg"
+			link="http://memorabilia.hardrock.com/?item=062560"/>
+		<slide
+			title="Elton John - Psychedelic piano"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_043665.jpg"
+			thumbnail="../Assets/Memorabilia/t_043665.jpg"
+			link="http://memorabilia.hardrock.com/?item=043665"/>
+		<slide
+			title="Chad Smith - Red Hot Chilli Peppers - Bass drum and painted head"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_062560.jpg"
+			thumbnail="../Assets/Memorabilia/t_062560.jpg"
+			link="http://memorabilia.hardrock.com/?item=062560"/>
+		<slide
+			title="Bruce Springsteen - Vehicle registration"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_023792.jpg"
+			thumbnail="../Assets/Memorabilia/t_023792.jpg"
+			link="http://memorabilia.hardrock.com/?item=023792"/>
+		<slide
+			title="Jon Bon Jovi - Bon Jovi - Torn jeans with flags"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_047721.jpg"
+			thumbnail="../Assets/Memorabilia/t_047721.jpg"
+			link="http://memorabilia.hardrock.com/?item=047721"/>
+		<slide
+			title="Richie Blackmore - Deep Purple - Broken Fender Stratocaster"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_059711.jpg"
+			thumbnail="../Assets/Memorabilia/t_059711.jpg"
+			link="http://memorabilia.hardrock.com/?item=059711"/>
+		<slide
+			title="Various artists - Studio 54 sun"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_087424.jpg"
+			thumbnail="../Assets/Memorabilia/t_087424.jpg"
+			link="http://memorabilia.hardrock.com/?item=087424"/>
+		<slide
+			title="Joanne Shaw - Eric Clapton - Original oil painting"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_036446.jpg"
+			thumbnail="../Assets/Memorabilia/t_036446.jpg"
+			link="http://memorabilia.hardrock.com/?item=036446"/>
+		<slide
+			title="Stuart Sutcliffe - The Beatles - Artist's palette"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_064691.jpg"
+			thumbnail="../Assets/Memorabilia/t_064691.jpg"
+			link="http://memorabilia.hardrock.com/?item=064691"/>
+		<slide
+			title="The Beatles - Hohner “beatles” harmonica"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_041555.jpg"
+			thumbnail="../Assets/Memorabilia/t_041555.jpg"
+			link="http://memorabilia.hardrock.com/?item=041555"/>
+		<slide
+			title="Peter Criss - Kiss - Gong"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_069800.jpg"
+			thumbnail="../Assets/Memorabilia/t_069800.jpg"
+			link="http://memorabilia.hardrock.com/?item=069800"/>
+		<slide
+			title="Dweezil Zappa - Jackson guitar"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_038404.jpg"
+			thumbnail="../Assets/Memorabilia/t_038404.jpg"
+			link="http://memorabilia.hardrock.com/?item=038404"/>
+		<slide
+			title="Tommy Allsup - Buddy Holly - Wallet recovered from Buddy Holly plane crash"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_024709.jpg"
+			thumbnail="../Assets/Memorabilia/t_024709.jpg"
+			link="http://memorabilia.hardrock.com/?item=024709"/>
+		<slide
+			title="The Beatles - “Bobb’n Head” dolls"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_051228.jpg"
+			thumbnail="../Assets/Memorabilia/t_051228.jpg"
+			link="http://memorabilia.hardrock.com/?item=051228"/>
+	</album>
+	<album
+	title="Mike Hanley"
+	description="A collection of Mike's favorite Hard Rock memorabilia items"
+	source="../Assets/Memorabilia/t_051892.jpg"
+	transition="CircleOutTransition">
+		<slide
+			title="Chad Smith - Red Hot Chilli Peppers - Custom Pearl drum kit"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_100299.jpg"
+			thumbnail="../Assets/Memorabilia/t_100299.jpg"
+			link="http://memorabilia.hardrock.com/?item=100299"/>
+		<slide
+			title="Madonna - Handwritten letter"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_062575.jpg"
+			thumbnail="../Assets/Memorabilia/t_062575.jpg"
+			link="http://memorabilia.hardrock.com/?item=062575"/>
+		<slide
+			title="“Dimebag” Darrell Abbott - Pantera - Custom Washburn “Dimebag 3” guitar"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_091403.jpg"
+			thumbnail="../Assets/Memorabilia/t_091403.jpg"
+			link="http://memorabilia.hardrock.com/?item=091403"/>
+		<slide
+			title="Buddy Holly - Horn-rimmed glasses"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_026341.jpg"
+			thumbnail="../Assets/Memorabilia/t_026341.jpg"
+			link="http://memorabilia.hardrock.com/?item=026341"/>
+		<slide
+			title="John Lennon - US Army shirt"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_051892.jpg"
+			thumbnail="../Assets/Memorabilia/t_051892.jpg"
+			link="http://memorabilia.hardrock.com/?item=051892"/>
+		<slide
+			title="Alice Cooper - Emerald green sparkle GMP guitar"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_001155.jpg"
+			thumbnail="../Assets/Memorabilia/t_001155.jpg"
+			link="http://memorabilia.hardrock.com/?item=001155"/>
+		<slide
+			title="U2 - Painted Trabant automobile"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_054726.jpg"
+			thumbnail="../Assets/Memorabilia/t_054726.jpg"
+			link="http://memorabilia.hardrock.com/?item=054726"/>
+	</album>
+	<album
+	title="Jim Baltzell-Gauthier"
+	description="A collection of Jim's favorite Hard Rock memorabilia items"
+	transition="CrossFadeTransition">
+		<slide
+			title="Slash - Guns N’ Roses - Flannel shirt from “November Rain” video"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_023350.jpg"
+			thumbnail="../Assets/Memorabilia/t_023350.jpg"
+			link="http://memorabilia.hardrock.com/?item=023350"/>
+		<slide
+			title="Axl Rose - Guns N’ Roses - Leather kilt"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_065041.jpg"
+			thumbnail="../Assets/Memorabilia/t_065041.jpg"
+			link="http://memorabilia.hardrock.com/?item=065041"/>
+		<slide
+			title="Madonna - Tasseled bustier"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_021114.jpg"
+			thumbnail="../Assets/Memorabilia/t_021114.jpg"
+			link="http://memorabilia.hardrock.com/?item=021114"/>
+		<slide
+			title="Jimi Hendrix - Patchwork suit"
+			description="Image provided by Hard Rock. Click on image for more details"
+			source="../Assets/Memorabilia/s_088653.jpg"
+			thumbnail="../Assets/Memorabilia/t_088653.jpg"
+			link="http://memorabilia.hardrock.com/?item=088653"/>
+	</album>
+</data>
